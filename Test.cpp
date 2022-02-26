@@ -5,6 +5,7 @@ using namespace std;
 
 int main(){
 
+
     cout << "Hello FIza!" << endl;
     cout << "lel kek" << endl;
 
@@ -21,6 +22,10 @@ int main(){
     }
 
     cout << endl;
+
+
+    cout << "Hello FIza!";
+    cout << "Heyyyyy";
 
     cout << 2 + 2;
     return 0;
